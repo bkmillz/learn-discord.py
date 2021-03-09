@@ -1,1 +1,1 @@
-# learn-discord.py
+the link is for the docs read these before attempting this https://discordpy.readthedocs.io/en/latest/ this is a youtube video on how to make the bot https://www.youtube.com/watch?v=nW8c7vT6Hl4&list=RDCMUCR-zOCvDCayyYy1flR5qaAg&start_radio=1&t=0 please install python before attempting to make a bot https://www.python.org/downloads/
